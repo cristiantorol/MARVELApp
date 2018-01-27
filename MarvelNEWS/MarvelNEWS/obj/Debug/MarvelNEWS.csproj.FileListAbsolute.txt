@@ -7,3 +7,4 @@ C:\Users\Cristian\Documents\Universidad\Noveno Semestre\Gestión Calidad\MarvelA
 C:\Users\Cristian\Documents\Universidad\Noveno Semestre\Gestión Calidad\MarvelAPP\MARVELApp\MarvelNEWS\MarvelNEWS\obj\Debug\MarvelNEWS.csproj.GenerateResource.Cache
 C:\Users\Cristian\Documents\Universidad\Noveno Semestre\Gestión Calidad\MarvelAPP\MARVELApp\MarvelNEWS\MarvelNEWS\obj\Debug\MarvelNEWS.exe
 C:\Users\Cristian\Documents\Universidad\Noveno Semestre\Gestión Calidad\MarvelAPP\MARVELApp\MarvelNEWS\MarvelNEWS\obj\Debug\MarvelNEWS.pdb
+C:\Users\Cristian\Documents\Universidad\Noveno Semestre\Gestión Calidad\MarvelAPP\MARVELApp\MarvelNEWS\MarvelNEWS\obj\Debug\MarvelNEWS.BlackPanther.resources
