@@ -15,6 +15,19 @@ namespace MarvelNEWS
         public Form1()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            BlackPanther bp = new BlackPanther();
+            bp.StartPosition = FormStartPosition.CenterScreen;
+            bp.Show();
         }
     }
 }

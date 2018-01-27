@@ -45,6 +45,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BlackPanther.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlackPanther.Designer.cs">
+      <DependentUpon>BlackPanther.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

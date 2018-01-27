@@ -42,6 +42,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "Black Panther";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -73,6 +74,7 @@
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "MARVEL NEWS";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }

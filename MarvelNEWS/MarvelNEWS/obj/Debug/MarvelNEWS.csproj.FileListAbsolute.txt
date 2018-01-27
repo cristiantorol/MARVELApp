@@ -1,0 +1,9 @@
+C:\Users\Cristian\Documents\Universidad\Noveno Semestre\Gestión Calidad\MarvelAPP\MARVELApp\MarvelNEWS\MarvelNEWS\bin\Debug\MarvelNEWS.exe.config
+C:\Users\Cristian\Documents\Universidad\Noveno Semestre\Gestión Calidad\MarvelAPP\MARVELApp\MarvelNEWS\MarvelNEWS\bin\Debug\MarvelNEWS.exe
+C:\Users\Cristian\Documents\Universidad\Noveno Semestre\Gestión Calidad\MarvelAPP\MARVELApp\MarvelNEWS\MarvelNEWS\bin\Debug\MarvelNEWS.pdb
+C:\Users\Cristian\Documents\Universidad\Noveno Semestre\Gestión Calidad\MarvelAPP\MARVELApp\MarvelNEWS\MarvelNEWS\obj\Debug\MarvelNEWS.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Documents\Universidad\Noveno Semestre\Gestión Calidad\MarvelAPP\MARVELApp\MarvelNEWS\MarvelNEWS\obj\Debug\MarvelNEWS.Form1.resources
+C:\Users\Cristian\Documents\Universidad\Noveno Semestre\Gestión Calidad\MarvelAPP\MARVELApp\MarvelNEWS\MarvelNEWS\obj\Debug\MarvelNEWS.Properties.Resources.resources
+C:\Users\Cristian\Documents\Universidad\Noveno Semestre\Gestión Calidad\MarvelAPP\MARVELApp\MarvelNEWS\MarvelNEWS\obj\Debug\MarvelNEWS.csproj.GenerateResource.Cache
+C:\Users\Cristian\Documents\Universidad\Noveno Semestre\Gestión Calidad\MarvelAPP\MARVELApp\MarvelNEWS\MarvelNEWS\obj\Debug\MarvelNEWS.exe
+C:\Users\Cristian\Documents\Universidad\Noveno Semestre\Gestión Calidad\MarvelAPP\MARVELApp\MarvelNEWS\MarvelNEWS\obj\Debug\MarvelNEWS.pdb
