@@ -71,6 +71,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AntWasp.resx">
+      <DependentUpon>AntWasp.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="BlackPanther.resx">
       <DependentUpon>BlackPanther.cs</DependentUpon>
     </EmbeddedResource>
