@@ -29,5 +29,12 @@ namespace MarvelNEWS
             bp.StartPosition = FormStartPosition.CenterScreen;
             bp.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            infinitywar inf = new infinitywar();
+            inf.StartPosition = FormStartPosition.CenterScreen;
+            inf.Show();
+        }
     }
 }
