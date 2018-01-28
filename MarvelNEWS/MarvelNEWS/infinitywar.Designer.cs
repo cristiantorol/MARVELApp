@@ -205,7 +205,7 @@
             // 
             this.label14.AutoSize = true;
             this.label14.Font = new System.Drawing.Font("ABeeZee", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.Location = new System.Drawing.Point(195, 673);
+            this.label14.Location = new System.Drawing.Point(195, 666);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(116, 15);
             this.label14.TabIndex = 30;
@@ -265,31 +265,31 @@
             // 
             this.label20.AutoSize = true;
             this.label20.Font = new System.Drawing.Font("ABeeZee", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label20.Location = new System.Drawing.Point(377, 682);
+            this.label20.Location = new System.Drawing.Point(377, 707);
             this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(119, 15);
+            this.label20.Size = new System.Drawing.Size(137, 15);
             this.label20.TabIndex = 38;
-            this.label20.Text = "Iron Man 3 (2013)";
+            this.label20.Text = "Black Panther (2018)";
             // 
             // label21
             // 
             this.label21.AutoSize = true;
             this.label21.Font = new System.Drawing.Font("ABeeZee", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label21.Location = new System.Drawing.Point(377, 653);
+            this.label21.Location = new System.Drawing.Point(377, 676);
             this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(149, 15);
+            this.label21.Size = new System.Drawing.Size(91, 15);
             this.label21.TabIndex = 37;
-            this.label21.Text = "Los Vengadores (2012)";
+            this.label21.Text = "Thor 3 (2017)";
             // 
             // label22
             // 
             this.label22.AutoSize = true;
             this.label22.Font = new System.Drawing.Font("ABeeZee", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label22.Location = new System.Drawing.Point(377, 622);
+            this.label22.Location = new System.Drawing.Point(377, 635);
             this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(153, 15);
+            this.label22.Size = new System.Drawing.Size(132, 30);
             this.label22.TabIndex = 36;
-            this.label22.Text = "Capitán América (2011)";
+            this.label22.Text = "Spider-Man \r\nHomecoming (2017)";
             // 
             // label23
             // 
@@ -297,9 +297,9 @@
             this.label23.Font = new System.Drawing.Font("ABeeZee", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label23.Location = new System.Drawing.Point(377, 592);
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(79, 15);
+            this.label23.Size = new System.Drawing.Size(116, 30);
             this.label23.TabIndex = 35;
-            this.label23.Text = "Thor (2011)";
+            this.label23.Text = "Guardianes de la \r\nGalaxia (2017)";
             // 
             // label24
             // 
@@ -307,9 +307,9 @@
             this.label24.Font = new System.Drawing.Font("ABeeZee", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label24.Location = new System.Drawing.Point(377, 560);
             this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(119, 15);
+            this.label24.Size = new System.Drawing.Size(117, 15);
             this.label24.TabIndex = 34;
-            this.label24.Text = "Iron Man 2 (2010)";
+            this.label24.Text = "Dr Strange (2016)";
             // 
             // label25
             // 
@@ -317,9 +317,9 @@
             this.label25.Font = new System.Drawing.Font("ABeeZee", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label25.Location = new System.Drawing.Point(377, 531);
             this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(107, 15);
+            this.label25.Size = new System.Drawing.Size(105, 15);
             this.label25.TabIndex = 33;
-            this.label25.Text = "Iron Man (2008)";
+            this.label25.Text = "Civil War (2016)";
             // 
             // label26
             // 
@@ -329,7 +329,7 @@
             this.label26.Name = "label26";
             this.label26.Size = new System.Drawing.Size(68, 29);
             this.label26.TabIndex = 32;
-            this.label26.Text = "Fase 1";
+            this.label26.Text = "Fase 3";
             // 
             // infinitywar
             // 
