@@ -21,5 +21,10 @@ namespace MarvelNEWS
         {
             this.Close();
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://www.youtube.com/watch?v=500L94fAcAg");
+        }
     }
 }
